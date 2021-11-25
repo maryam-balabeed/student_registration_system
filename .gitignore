@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.DS_Store
+.idea
+college/src/main/resources/application.properties
