@@ -34,4 +34,4 @@ build/
 
 .DS_Store
 .idea
-college/src/main/resources/application.properties
+*college/src/main/resources/
